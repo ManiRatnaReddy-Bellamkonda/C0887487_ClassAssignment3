@@ -69,3 +69,5 @@ docker images
 ```
 docker push mani256122/c0887487-node-assignment3:1.0.0
 docker pull mani256122/c0887487-node-assignment3:1.0.0
+docker run -d -p 3000:3000 mani256122/c0887487-node-assignment3:1.0.0
+```
