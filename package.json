@@ -1,0 +1,20 @@
+{
+  "name": "c0887487_classassignment3",
+  "version": "1.0.0",
+  "description": "Devops Assignment 3 for Node Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "DevOps",
+    "Express",
+    "Assignment3"
+  ],
+  "author": "C0887487_Mani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
